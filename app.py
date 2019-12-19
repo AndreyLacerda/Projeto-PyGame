@@ -67,3 +67,6 @@ while janela_aberta:
     pygame.display.update()
 
 pygame.quit()
+
+# Para executar o jogo, utilize o comando 'python .\app.py'
+# O pip do PyGame deve estar instalado na máquina
